@@ -12,9 +12,9 @@
 ### 🚀 About Me
 
 - 🔭 I’m passionate about all things **DevOps** — from automation to infrastructure.
-- 🧠 Exploring **AI/ML** and its applications in real-world systems.
+- 🧠 Exploring **AI** and its applications in real-world systems.
 - 💡 Strong in **Linux**, containerization using **Docker**, and cloud services like **AWS**.
-- 🌱 Currently learning more about **MLOps** and how to bridge AI and DevOps practices.
+- 🌱 Currently learning more about **AI assited Devops** and how to bridge AI and DevOps practices.
 - ⚙️ Tools & Tech I work with: `Docker`, `AWS`, `Bash`, `Git`, `Linux`, `CI/CD`, `Python`, `Node.js`
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vijayarangan-saravanan-68b45612b/)
 
