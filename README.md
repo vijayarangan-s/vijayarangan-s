@@ -44,14 +44,3 @@
 
 I’m deeply interested in how **Artificial Intelligence** can enhance DevOps pipelines, improve monitoring, and optimize performance. Always experimenting with new models and tooling to stay ahead!
 
----
-
-### 📫 Let’s Connect
-
-Feel free to reach out if you want to collaborate, chat about DevOps, or discuss cool AI ideas!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vijayarangan-saravanan-68b45612b/">
-    <img src="https://img.shields.io/badge/-Vijayarangan%20Saravanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijayarangan-saravanan-68b45612b/">
-  </a>
-</p>
