@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Vijayarangan Saravanan</h1>
-<h3 align="center">DevOps Enthusiast | Linux Lover | AI Explorer</h3>
+<h3 align="center">Full Stack Developer | DevOps Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vijayarangan-saravanan-68b45612b/" target="_blank">
@@ -11,23 +11,35 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m passionate about all things **DevOps** — from automation to infrastructure.
-- 🧠 Exploring **AI** and its applications in real-world systems.
-- 💡 Strong in **Linux**, containerization using **Docker**, and cloud services like **AWS**.
-- 🌱 Currently learning more about **AI assited Devops** and how to bridge AI and DevOps practices.
-- ⚙️ Tools & Tech I work with: `Docker`, `AWS`, `Bash`, `Git`, `Linux`, `CI/CD`, `Python`, `Node.js`
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vijayarangan-saravanan-68b45612b/)
+- 🔭 I’m passionate about building scalable web apps and DevOps pipelines.
+- 💻 Skilled in **React**, **Next.js**, **Node.js**, **TypeScript**, **Linux**, **Docker**, and more.
+- ☁️ Experienced with **Firebase**, **Jenkins**, and **AWS** cloud services.
+- 🧠 Exploring **AI/ML** and how to integrate them with DevOps workflows.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vijayarangan-saravanan-68b45612b/)
 
 ---
 
-### 🧰 DevOps & Cloud Toolbox
+### 🧰 My Toolbox
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+#### 💻 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS" />
+</p>
+
+#### 🛠️ Backend & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
 </p>
 
 ---
@@ -42,5 +54,6 @@
 
 ### 🧠 AI Interest
 
-I’m deeply interested in how **Artificial Intelligence** can enhance DevOps pipelines, improve monitoring, and optimize performance. Always experimenting with new models and tooling to stay ahead!
+I’m enthusiastic about applying **Artificial Intelligence** in real-world DevOps and software engineering challenges — whether it's predictive automation, intelligent alerting, or smart CI/CD.
 
+---
